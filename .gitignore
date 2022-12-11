@@ -1,0 +1,23 @@
+.idea/*
+target/*
+
+# Build Artifacts
+build
+target
+out
+*.bak
+*.class
+
+# IDEA artifacts
+*.iml
+*.log
+*.idea
+
+# Eclipse artifacts
+.classpath
+.project
+.settings
+
+*.jar
+*.ear
+*.war
